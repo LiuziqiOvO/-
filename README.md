@@ -1,4 +1,4 @@
-# -
+# 华科课程平台刷题助手
 华科课程平台刷题助手
 
 网址匹配：https://smartcourse.hust.edu.cn/mooc-smartcourse/mycourse/*
